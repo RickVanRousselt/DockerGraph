@@ -6,7 +6,7 @@ script: npm run lint
 notifications:
   email:
     recipients:
-    - ricardol@microsoft.com
+    - rick@rivaro.be
     on_success: never
     on_failure: always
 
