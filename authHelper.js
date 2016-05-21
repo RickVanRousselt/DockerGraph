@@ -7,8 +7,8 @@ var AuthenticationContext = require('adal-node').AuthenticationContext;
 // The application registration (must match Azure AD config)
 var credentials = {
   authority: 'https://login.microsoftonline.com/common',
-  client_id: 'd810364d-8d53-4a98-b3a9-c59467a7cbb0', 
-  client_secret: 'x8kBJHvTBaB8nBDQiVoavxrc/TGt0NVhI8BWyfnf9Bo=', 
+  client_id: 'f8aee03d-9d48-44f7-81e8-adff10c50878', 
+  client_secret: 'YEZkVcCF+LKTIxTloGUtS7gx/XxtKZj3JRvaa+CBNP8=', 
   redirect_uri: 'http://rickdcosagents.westeurope.cloudapp.azure.com/login' 
 
 };
