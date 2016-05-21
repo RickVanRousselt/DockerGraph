@@ -11,7 +11,6 @@ var credentials = {
   client_secret: 'x8kBJHvTBaB8nBDQiVoavxrc/TGt0NVhI8BWyfnf9Bo=', 
   redirect_uri: 'http://rickdcosagents.westeurope.cloudapp.azure.com/login' 
 
-
 };
 
 /**
