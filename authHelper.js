@@ -9,7 +9,7 @@ var credentials = {
   authority: 'https://login.microsoftonline.com/common',
   client_id: 'f8aee03d-9d48-44f7-81e8-adff10c50878', 
   client_secret: 'YEZkVcCF+LKTIxTloGUtS7gx/XxtKZj3JRvaa+CBNP8=', 
-  redirect_uri: 'http://rickdcosagents.westeurope.cloudapp.azure.com/login' 
+  redirect_uri: 'http://spssthlmagents.northeurope.cloudapp.azure.com/login' 
 
 };
 
